@@ -1,0 +1,5 @@
+Kviz
+
+1. Zgenerira Random vprašanje
+2. Preveri ali je vprašanje pravilno odgovorjeno
+3. Postopek ponovi
